@@ -1,7 +1,7 @@
 #--------------------------------------------------------------------------
 # init.S:  Initialize simple kernel with paging
 #
-# Mark P. Jones, April 2015, 2016
+# Mark P. Jones + Donovan Ellison, Portland State University
 
 #include "memory.h"
 

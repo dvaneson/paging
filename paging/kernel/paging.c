@@ -19,7 +19,7 @@
 */
 /*-------------------------------------------------------------------------
  * paging.c:
- * Mark P Jones, Portland State University
+ * Mark P Jones + Donovan Ellison, Portland State University
  *-----------------------------------------------------------------------*/
 #include "paging.h"
 #include "memory.h"

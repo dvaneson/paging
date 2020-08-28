@@ -19,7 +19,7 @@
 */
 /*-------------------------------------------------------------------------
  * memory.h:
- * Mark P Jones, Portland State University
+ * Mark P Jones + Donovan Ellison, Portland State University
  *-----------------------------------------------------------------------*/
 #ifndef MEMORY_H
 #define MEMORY_H
