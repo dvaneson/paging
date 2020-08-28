@@ -5,7 +5,7 @@ A page table written in C, based on the week 4 and week 5 labs from the
 This lab was also implemented in LC, which can be found
 [here](https://github.com/dvaneson/paging-lc).
 
-I originally worked on the LLP labs in (https://github.com/dvaneson/baremetal).
+I originally worked on the LLP labs in https://github.com/dvaneson/baremetal.
 I have moved the page table code to this repository to make it easier to
 reference and compare the C implementation with the LC version.
 
