@@ -37,7 +37,7 @@ reference and compare the C implementation with the LC version.
 ## libs
 
 This program depends on libraries and tools that are packaged together in the libs
-folder. The library files in libs include:
+folder. The libraries include:
 
 -   `mimg` - Memory image boot tools, providing an extra layer
     of flexibility and control over Grub. The mimgmake tool
