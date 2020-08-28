@@ -1,21 +1,17 @@
 #----------------------------------------------------------------------------
 include Makefile.common
 
-.phony: all run libs clean
+.phony: all run clean
 
-BOOT = paging
-
-all:	libs
-	make -C ${BOOT}
-
-run:	libs
-	make -C ${BOOT} run
-
-libs:
+all:
 	make -C libs
+	make -C paging
+
+run: all
+	make -C paging run
 
 clean:
-	make -C paging             clean
-	make -C libs               clean
+	make -C libs   clean
+	make -C paging clean
 
 #----------------------------------------------------------------------------
