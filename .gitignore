@@ -7,15 +7,3 @@
 *.iso
 grub.cfg
 mimgload
-twiddletests
-bootinfo/bootinfo
-bootinfo/cdrom/bootinfo
-hello/hello
-hello/cdrom/hello
-mimg/mimgmake
-vram/video1
-vram/video2
-vram/video3
-*/kernel/kernel
-*/user/user
-*/user/user2
