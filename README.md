@@ -2,7 +2,7 @@
 
 A page table written in C, based on the week 4 and week 5 labs from the
 [Languages and Low-Level Programming Course(LLP)](http://web.cecs.pdx.edu/~mpj/llp/).
-This lab was also implemented in LC, and can be found [here](https://github.com/dvaneson/paging-lc).
+This lab was also implemented in LC, which can be found [here](https://github.com/dvaneson/paging-lc).
 
 ## Installation Notes:
 
